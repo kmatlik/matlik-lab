@@ -1,1 +1,1 @@
-Sitemap: https://kmatlik.github.io/matlik-lab-website/sitemap.xml
+Sitemap: https://kmatlik.github.io/matlik-lab/sitemap.xml
