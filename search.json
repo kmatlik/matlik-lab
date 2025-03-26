@@ -1,58 +1,58 @@
 [
   {
-    "objectID": "Blog.html",
-    "href": "Blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "The value of contemplative ecology\n\n\n\n\n\n\ncontemplative\n\n\n\nSome thoughts about it\n\n\n\n\n\nOct 21, 2024\n\n\nJohn Doe\n\n\n\n\n\n\n\n\n\n\n\n\nThe value of computational ecology\n\n\n\n\n\n\ncomputational\n\n\n\nSome thoughts about it\n\n\n\n\n\nOct 20, 2024\n\n\nJohn Doe\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "Publications.html",
     "href": "Publications.html",
-    "title": "Publications",
+    "title": "PUBLICATIONS",
     "section": "",
-    "text": "Articles\n\nQuintero, Rodríguez‐Sánchez, Jordano (2022) Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species. Ecology Letters 26 (1): 132-146. [PDF]\nRodríguez-Sanchez, Pérez-Luque, Bartomeus, Varela (2016) Ciencia reproducible: ¿qué, por qué, cómo?. Ecosistemas 25 (2): 83-92\n\n\n\nBook chapters"
+    "text": "Mätlik K, Govek EE, Hatten ME (2025). Histone bivalency in CNS development Genes & Development\nHanzel M, Fernando K, Maloney SE, Horn Z, Gong S, Mätlik K, Zhao J, Pasolli HA, Heissel S, Dougherty JD, Hull C, Hatten ME (2024). Mice lacking Astn2 have ASD-like behaviors and altered cerebellar circuit properties Proceedings of the National Academy of Sciences, 121 (34): e2405901121\nFeng L, Barrows D, Zhong L, Mätlik K, Porter EG, Djomo AM, Yau I, Soshnev AA, Carroll TS, Wen D, Hatten ME, Garcia BA, Allis CD (2023). Altered chromatin occupancy of patient-associated H4 mutants misregulate neuronal differentiation bioRxiv\nMätlik K, Govek EE, Paul MR, Allis CD, Hatten ME (2023). Histone bivalency regulates the timing of cerebellar granule cell development Genes & Development, 37 (13-14): 570-589\nMätlik K, Olfat S, Cowlishaw MC, Moreno ED, Ollila S, Andressoo JO (2023). In vivo modulation of endogenous gene expression via CRISPR/Cas9-mediated 3’UTR editing Heliyon, 9 (3): e13844\nMätlik K, Garton DR, Montaño-Rodríguez AR, Olfat S, Eren F, Casserly L, Damdimopoulos A, Panhelainen A, Porokuokka LL, Kopra JJ, Turconi G, Schweizer N, Bereczki E, Piehl F, Engberg G, Cervenka S, Piepponen TP, Zhang FP, Sipilä P, Jakobsson J, Sellgren CM, Erhardt S, Andressoo JO (2022). Elevated endogenous GDNF induces altered dopamine signalling in mice and correlates with clinical severity in schizophrenia Molecular Psychiatry, 27 (8): 3247-3261\nMätlik K, Võikar V, Vilenius C, Kulesskaya N, Andressoo JO (2018). Two-fold elevation of endogenous GDNF levels in mice improves motor coordination without causing side-effects Scientific Reports, 8 (1): 11861\nKopra JJ, Panhelainen A, af Bjerkén S, Porokuokka LL, Varendi K, Olfat S, Montonen H, Piepponen TP, Saarma M, Andressoo JO (2017). Dampened Amphetamine-Stimulated Behavior and Altered Dopamine Transporter Function in the Absence of Brain GDNF The Journal of Neuroscience, 37 (6): 1581-1590\nKumar A, Kopra JJ, Varendi K, Porokuokka LL, Panhelainen A, Kuure S, Marshall P, Karalija N, Härma MA, Vilenius C, Lilleväli K, Tekko T, Mijatovic J, Pulkkinen N, Jakobson M, Jakobson M, Ola R, Palm E, Lindahl M, Strömberg I, Võikar V, Piepponen TP, Saarma M, Andressoo JO (2015). GDNF Overexpression from the Native Locus Reveals its Role in the Nigrostriatal Dopaminergic System Function PLOS Genetics, 11 (12): e1005710\nKopra JJ, Vilenius C, Grealish S, Härma MA, Varendi K, Lindholm J, Castrén E, Võikar V, Björklund A, Piepponen TP, Saarma M, Andressoo JO (2015). GDNF is not required for catecholaminergic neuron survival in vivo Nature Neuroscience, 18 (3): 319-322\nVarendi K, Mätlik K, Andressoo JO (2015). From microRNA target validation to therapy: lessons learned from studies on BDNF Cellular and Molecular Life Sciences, 72 (9): 1779-1794\nVarendi K, Kumar A, Härma MA, Andressoo JO (2014). miR-1, miR-10b, miR-155, and miR-191 are novel regulators of BDNF Cellular and Molecular Life Sciences, 71 (22): 4443-4456\nVarendi K, Airavaara M, Anttila J, Vose S, Planken A, Saarma M, Mitchell JR, Andressoo JO (2014). Short-term Preoperative Dietary Restriction Is Neuroprotective in a Rat Focal Stroke Model PLoS ONE, 9 (4): e93911\nFull list of publications can be found here"
   },
   {
-    "objectID": "projects/contemplative-ecology.html",
-    "href": "projects/contemplative-ecology.html",
-    "title": "Contemplative Ecology",
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "CONTACT",
     "section": "",
-    "text": "Learning about the natural world just by contemplating it"
+    "text": "Interested in joining us?\nWe are looking for highly motivated students interested in working at the intersection of neuroscience, developmental biology, and epigenetics. Please email kart.matlik@taltech.ee to get in touch."
   },
   {
-    "objectID": "projects/computational-ecology.html",
-    "href": "projects/computational-ecology.html",
-    "title": "Computational Ecology",
+    "objectID": "People.html",
+    "href": "People.html",
+    "title": "TEAM",
     "section": "",
-    "text": "A computational approach to tough questions in ecology"
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Computational Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContemplative Ecology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Kärt Mätlik, Ph.D. \nGroup Leader\nKärt received her Ph.D. in Physiology and Neuroscience from the University of Helsinki, where she studied the role of neurotrophic factor regulation in midbrain dopamine system function under the mentorship of Jaan-Olle Andressoo and Mart Saarma. For her postdoctoral training, Kärt joined the Laboratory of Developmental Neurobiology at Rockefeller University, led by Mary E. Hatten, where she investigated how chromatin modifications control cerebellar development. Kärt now runs the Neuroepigenetics research group at the Tallinn University of Technology, where she studies the intersection of epigenetics, gene expression, and brain development."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Finley Malloc",
+    "title": "WELCOME",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "Neurons are born early in development and mature shortly after that. Most types of mammalian neurons are not replaced during the individual’s lifetime. As a result, after neurons have matured and become fully functional, they must remain so for a long time – in humans, for up to a hundred years or more.\nOur lab at the Tallinn University of Technology aims to uncover the epigenetic mechanisms that guide neuronal maturation and ensure the maintenance of neuronal function over the course of a lifetime. We use a combination of methods including primary neuronal cultures, animal models, microscopy, genome-wide sequencing and bioinformatics to study chromatin and gene regulation in neurons. We hope this research helps us understand key questions about brain function in health and disease."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Finley Malloc",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "objectID": "index.html#laboratory-of-neuroepigenetics",
+    "href": "index.html#laboratory-of-neuroepigenetics",
+    "title": "WELCOME",
+    "section": "",
+    "text": "Neurons are born early in development and mature shortly after that. Most types of mammalian neurons are not replaced during the individual’s lifetime. As a result, after neurons have matured and become fully functional, they must remain so for a long time – in humans, for up to a hundred years or more.\nOur lab at the Tallinn University of Technology aims to uncover the epigenetic mechanisms that guide neuronal maturation and ensure the maintenance of neuronal function over the course of a lifetime. We use a combination of methods including primary neuronal cultures, animal models, microscopy, genome-wide sequencing and bioinformatics to study chromatin and gene regulation in neurons. We hope this research helps us understand key questions about brain function in health and disease."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Finley Malloc",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "RESEARCH",
+    "section": "",
+    "text": "During development, neurons undergo a series of functional and morphological changes to become mature neurons integrated into brain circuitry. The developmental progression of neuronal precursors is regulated by changes in gene expression, which, in turn, are controlled by the chromatin landscape. We are interested in understanding how chromatin mechanisms regulate the timing of developmental progression of immature neurons.\nOur work has revealed the importance of histone bivalency in regulating the appropriate timing of gene expression programs during neuronal maturation. Histone bivalency refers to the colocalisation of activating and repressive modifications on chromatin, and it is thought to maintain gene expression in a ‘paused’ state. Our studies on the cerebellum showed that if bivalency is perturbed, developing neurons skip glial-guided migration, an essential step in cerebellar cortex formation, and instead undergo premature maturation. We are now identifying novel bivalency regulators and exploring how bivalency is regulated in mouse and human neurons."
+  },
+  {
+    "objectID": "Research.html#histone-bivalency-in-neuronal-development",
+    "href": "Research.html#histone-bivalency-in-neuronal-development",
+    "title": "RESEARCH",
+    "section": "",
+    "text": "During development, neurons undergo a series of functional and morphological changes to become mature neurons integrated into brain circuitry. The developmental progression of neuronal precursors is regulated by changes in gene expression, which, in turn, are controlled by the chromatin landscape. We are interested in understanding how chromatin mechanisms regulate the timing of developmental progression of immature neurons.\nOur work has revealed the importance of histone bivalency in regulating the appropriate timing of gene expression programs during neuronal maturation. Histone bivalency refers to the colocalisation of activating and repressive modifications on chromatin, and it is thought to maintain gene expression in a ‘paused’ state. Our studies on the cerebellum showed that if bivalency is perturbed, developing neurons skip glial-guided migration, an essential step in cerebellar cortex formation, and instead undergo premature maturation. We are now identifying novel bivalency regulators and exploring how bivalency is regulated in mouse and human neurons."
+  },
+  {
+    "objectID": "Research.html#chromatin-dynamics-in-developing-and-ageing-neurons",
+    "href": "Research.html#chromatin-dynamics-in-developing-and-ageing-neurons",
+    "title": "RESEARCH",
+    "section": "Chromatin dynamics in developing and ageing neurons",
+    "text": "Chromatin dynamics in developing and ageing neurons\n\nNeuronal maturation is accompanied by large-scale reorganisation of chromatin 3D architecture and dynamic changes in epigenetic modifications at local regulatory regions. These changes establish the transcriptional programs that control neuronal function. We are interested in how global and local changes in the genomic distribution of the repressive histone modification H3K27me3 control chromatin interactions and gene expression during neuronal maturation and in adult and ageing neurons. We use a combination of biochemistry, imaging, genome-wide sequencing, and bioinformatics in primary neurons and animal models to understand how chromatin mechanisms support neuronal function throughout life."
   }
 ]

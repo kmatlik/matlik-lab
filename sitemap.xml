@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/Blog.html</loc>
-    <lastmod>2025-02-06T20:36:17.992Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/Publications.html</loc>
+    <lastmod>2025-03-26T08:53:25.227Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/another-post.html</loc>
-    <lastmod>2025-02-06T20:36:17.994Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/Contact.html</loc>
+    <lastmod>2025-03-26T08:53:25.227Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/Publications.html</loc>
-    <lastmod>2025-02-06T20:36:17.992Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/posts/new-post.html</loc>
+    <lastmod>2025-03-26T08:53:25.229Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/contemplative-ecology.html</loc>
-    <lastmod>2025-02-06T20:36:17.994Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/People.html</loc>
+    <lastmod>2025-03-26T08:53:25.227Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/projects/computational-ecology.html</loc>
-    <lastmod>2025-02-06T20:36:17.994Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/index.html</loc>
+    <lastmod>2025-03-26T08:53:25.229Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/Projects.html</loc>
-    <lastmod>2025-02-06T20:36:17.992Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/posts/another-post.html</loc>
+    <lastmod>2025-03-26T08:53:25.229Z</lastmod>
   </url>
   <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/index.html</loc>
-    <lastmod>2025-02-06T20:36:17.994Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pakillo.github.io/academic-website-template-Quarto/posts/new-post.html</loc>
-    <lastmod>2025-02-06T20:36:17.994Z</lastmod>
+    <loc>https://kmatlik.github.io/matlik-lab-website/Research.html</loc>
+    <lastmod>2025-03-26T08:53:25.227Z</lastmod>
   </url>
 </urlset>

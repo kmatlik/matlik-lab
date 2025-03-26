@@ -1,1 +1,40 @@
 /* css styles */
+p {
+  font-size: 100%;
+  margin-bottom: 10px;
+}
+nav {
+  font-size: 100%;
+
+}
+h1 {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  padding-block-end: 0px;
+  font-size: 200%;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  color: #182127;
+  margin: 0;
+}
+
+h2 {
+  padding-top: 0px;
+  padding-block-start: 0px;
+  font-size: 140%;
+  font-family: "Roboto", sans-serif;
+  color: #182127;
+  margin-top: 0;
+  padding-bottom: 0px;
+}
+
+h3 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-block-end: 0px;
+  font-size: 140%;
+  font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  color: #182127;
+  margin: 0;
+}
