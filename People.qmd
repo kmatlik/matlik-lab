@@ -5,7 +5,7 @@ about:
 ---
 
 ::: {layout="[[32,70]]"}
-![](copy_DSC_7730.JPG){fig-align="left" width="240"}  
+![](headshot.jpg){fig-align="left" width="240"}  
 
 ### Kärt Mätlik, Ph.D.  
 <b>Group Leader</b>  
