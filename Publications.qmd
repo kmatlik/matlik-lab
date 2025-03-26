@@ -1,15 +1,34 @@
 ---
-title: "Publications"
-toc: true
+title: "PUBLICATIONS"
+about:
+  template: marquee
+toc: false
 ---
 
-### Articles
+<b>Mätlik K</b>, Govek EE, Hatten ME (2025). [Histone bivalency in CNS development](https://doi.org/10.1101/gad.352306.124) *Genes &amp; Development*
 
-- Quintero, Rodríguez‐Sánchez, Jordano (2022) [Reciprocity and interaction effectiveness in generalised mutualisms among free‐living species](https://doi.org/10.1111/ele.14141). *Ecology Letters* 26 (1): 132-146. [[PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14141)]
+Hanzel M, Fernando K, Maloney SE, Horn Z, Gong S, <b>Mätlik K</b>, Zhao J, Pasolli HA, Heissel S, Dougherty JD, Hull C, Hatten ME (2024). [Mice lacking <i>Astn2</i> have ASD-like behaviors and altered cerebellar circuit properties](https://doi.org/10.1073/pnas.2405901121) *Proceedings of the National Academy of Sciences*, 121 (34): e2405901121
 
-- Rodríguez-Sanchez, Pérez-Luque, Bartomeus, Varela (2016) [Ciencia reproducible: ¿qué, por qué, cómo?](https://doi.org/10.7818/ECOS.2016.25-2.11). *Ecosistemas* 25 (2): 83-92
+Feng L, Barrows D, Zhong L, <b>Mätlik K</b>, Porter EG, Djomo AM, Yau I, Soshnev AA, Carroll TS, Wen D, Hatten ME, Garcia BA, Allis CD (2023). [Altered chromatin occupancy of patient-associated H4 mutants misregulate neuronal differentiation](https://doi.org/10.1101/2023.09.29.560141) *bioRxiv*
 
-### Book chapters
+<b>Mätlik K</b>, Govek EE, Paul MR, Allis CD, Hatten ME (2023). [Histone bivalency regulates the timing of cerebellar granule cell development](https://doi.org/10.1101/gad.350594.123) *Genes &amp; Development*, 37 (13-14): 570-589
 
+<b>Mätlik K</b>, Olfat S, Cowlishaw MC, Moreno ED, Ollila S, Andressoo JO (2023). [In vivo modulation of endogenous gene expression via CRISPR/Cas9-mediated 3’UTR editing](https://doi.org/10.1016/j.heliyon.2023.e13844) *Heliyon*, 9 (3): e13844
 
+<b>Mätlik K</b>, Garton DR, Montaño-Rodríguez AR, Olfat S, Eren F, Casserly L, Damdimopoulos A, Panhelainen A, Porokuokka LL, Kopra JJ, Turconi G, Schweizer N, Bereczki E, Piehl F, Engberg G, Cervenka S, Piepponen TP, Zhang FP, Sipilä P, Jakobsson J, Sellgren CM, Erhardt S, Andressoo JO (2022). [Elevated endogenous GDNF induces altered dopamine signalling in mice and correlates with clinical severity in schizophrenia](https://doi.org/10.1038/s41380-022-01554-2) *Molecular Psychiatry*, 27 (8): 3247-3261
 
+<b>Mätlik K</b>, Võikar V, Vilenius C, Kulesskaya N, Andressoo JO (2018). [Two-fold elevation of endogenous GDNF levels in mice improves motor coordination without causing side-effects](https://doi.org/10.1038/s41598-018-29988-1) *Scientific Reports*, 8 (1): 11861
+
+Kopra JJ, Panhelainen A, af Bjerkén S, Porokuokka LL, <b>Varendi K</b>, Olfat S, Montonen H, Piepponen TP, Saarma M, Andressoo JO (2017). [Dampened Amphetamine-Stimulated Behavior and Altered Dopamine Transporter Function in the Absence of Brain GDNF](https://doi.org/10.1523/JNEUROSCI.1673-16.2016) *The Journal of Neuroscience*, 37 (6): 1581-1590
+
+Kumar A, Kopra JJ, <b>Varendi K</b>, Porokuokka LL, Panhelainen A, Kuure S, Marshall P, Karalija N, Härma MA, Vilenius C, Lilleväli K, Tekko T, Mijatovic J, Pulkkinen N, Jakobson M, Jakobson M, Ola R, Palm E, Lindahl M, Strömberg I, Võikar V, Piepponen TP, Saarma M, Andressoo JO (2015). [GDNF Overexpression from the Native Locus Reveals its Role in the Nigrostriatal Dopaminergic System Function](https://doi.org/10.1371/journal.pgen.1005710) *PLOS Genetics*, 11 (12): e1005710
+
+Kopra JJ, Vilenius C, Grealish S, Härma MA, <b>Varendi K</b>, Lindholm J, Castrén E, Võikar V, Björklund A, Piepponen TP, Saarma M, Andressoo JO (2015). [GDNF is not required for catecholaminergic neuron survival in vivo](https://doi.org/10.1038/nn.3941) *Nature Neuroscience*, 18 (3): 319-322
+
+<b>Varendi K</b>, Mätlik K, Andressoo JO (2015). [From microRNA target validation to therapy: lessons learned from studies on BDNF](https://doi.org/10.1007/s00018-015-1836-z) *Cellular and Molecular Life Sciences*, 72 (9): 1779-1794
+
+<b>Varendi K</b>, Kumar A, Härma MA, Andressoo JO (2014). [miR-1, miR-10b, miR-155, and miR-191 are novel regulators of BDNF](https://doi.org/10.1007/s00018-014-1628-x) *Cellular and Molecular Life Sciences*, 71 (22): 4443-4456
+
+<b>Varendi K</b>, Airavaara M, Anttila J, Vose S, Planken A, Saarma M, Mitchell JR, Andressoo JO (2014). [Short-term Preoperative Dietary Restriction Is Neuroprotective in a Rat Focal Stroke Model](https://doi.org/10.1371/journal.pone.0093911) *PLoS ONE*, 9 (4): e93911
+
+Full list of publications can be found <a href = "https://www.etis.ee/Portal/Publications/Index/?2=6cb55dff-9def-4aa9-aaa6-a6ad88f5c1f5__AND">here</a>

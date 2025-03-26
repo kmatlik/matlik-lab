@@ -4,12 +4,12 @@ project:
 
 
 website:
-  title: "My website"
-  description: "I am a scientist"
-  site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  title: "MÄTLIK LAB"
+  description: "Laboratory of Neuroepigenetics"
+  site-url: https://kmatlik.github.io/matlik-lab-website
+  #repo-url: https://github.com/kmatlik/matlik-lab-website
   # favicon: logo.png
-  twitter-card: true
+  twitter-card: false
   #   creator: "@handle"
   #   site: "@handle"
   open-graph: true
@@ -20,15 +20,16 @@ website:
 
 
   navbar:
+    background: "#030502"
     right:
       - href: index.qmd
-        text: Home
-      - Projects.qmd
+        text: HOME
+      - Research.qmd
       - Publications.qmd
-      - Blog.qmd
+      - People.qmd
+      - Contact.qmd
+      #- Blog.qmd change to contact
 
-      # - icon: mastodon
-      #   href: https://joinmastodon.org
       # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
       #   href: https://bsky.app
       # - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
@@ -41,20 +42,21 @@ website:
       #   href: https://scholar.google.com
       # - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
       #   href: https://orcid.org/
-      - icon: rss
-        href: index.xml
+      #- icon: rss
+      #  href: index.xml
       # - icon: twitter
       #   href: https://twitter.com
 
+
   page-footer:
     background: light
-    right: "Made with Quarto"
+    right: "Made with Quarto. Figures created with BioRender.com"
   # back-to-top-navigation: true
 
 
 format:
   html:
-    theme: flatly
+    theme: journal #other nice alternatives include journal, united, minty, lumen, yeti, spacelab https://quarto.org/docs/output-formats/html-themes.html
     css: styles.css
     toc: false
 

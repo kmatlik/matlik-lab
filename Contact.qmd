@@ -1,0 +1,13 @@
+---
+title: "CONTACT"
+about:
+  template: marquee
+  #image: "copy_DSC_7730.jpg"
+  #image-width: 20%
+  #image-shape: rectangle
+
+---
+### Interested in joining us?
+We are looking for highly motivated students interested in working at the intersection of neuroscience, developmental biology, and epigenetics. Please email kart.matlik@taltech.ee to get in touch.  
+
+

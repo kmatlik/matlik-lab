@@ -1,0 +1,20 @@
+---
+title: "RESEARCH"
+about:
+  template: marquee
+---
+## Histone bivalency in neuronal development
+<img src= "research1.jpg" style="width: 46vw; min-width: 330px;">
+
+During development, neurons undergo a series of functional and morphological changes to become mature neurons integrated into brain circuitry. The developmental progression of neuronal precursors is regulated by changes in gene expression, which, in turn, are controlled by the chromatin landscape. We are interested in understanding how chromatin mechanisms regulate the timing of developmental progression of immature neurons.  
+
+Our work has revealed the importance of <i>histone bivalency</i> in regulating the appropriate timing of gene expression programs during neuronal maturation. Histone bivalency refers to the colocalisation of activating and repressive modifications on chromatin, and it is thought to maintain gene expression in a 'paused' state. Our studies on the cerebellum showed that if bivalency is perturbed, developing neurons skip glial-guided migration, an essential step in cerebellar cortex formation, and instead undergo premature maturation. We are now identifying novel bivalency regulators and exploring how bivalency is regulated in mouse and human neurons.
+
+<hr>
+## Chromatin dynamics in developing and ageing neurons
+<img src= "research2.jpg" style="width: 45vw; min-width: 330px;">
+
+Neuronal maturation is accompanied by large-scale reorganisation of chromatin 3D architecture and dynamic changes in epigenetic modifications at local regulatory regions. These changes establish the transcriptional programs that control neuronal function. We are interested in how global and local changes in the genomic distribution of the repressive histone modification H3K27me3 control chromatin interactions and gene expression during neuronal maturation and in adult and ageing neurons. We use a combination of biochemistry, imaging, genome-wide sequencing, and bioinformatics in primary neurons and animal models to understand how chromatin mechanisms support neuronal function throughout life.
+
+
+

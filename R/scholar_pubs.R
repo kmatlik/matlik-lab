@@ -1,4 +1,4 @@
-scholar_pubs <- function(id = NULL, file = "publications.qmd") {
+scholar_pubs <- function(id = NULL, file = "publication_list.qmd") {
 
   scholar.df <- scholar::get_publications(id) |>
     sort_by(~ list(-year))
