@@ -1,5 +1,6 @@
 ---
 title: "WELCOME"
+
 about:
   template: marquee
   links:
@@ -18,7 +19,7 @@ about:
     
 ---
 ## Laboratory of Neuroepigenetics  
-<img src= "neuron4.jpg" class="center fit" style="width: 46vw; min-width: 330px;">  
+<img src= "composite2.jpg" class="center fit" style="width: 47vw; min-width: 330px;">  
 
 Neurons are born early in development and mature shortly after that. Most types of mammalian neurons are not replaced during the individual's lifetime. As a result, after neurons have matured and become fully functional, they must remain so for a long time -- in humans, for up to a hundred years or more. 
 
