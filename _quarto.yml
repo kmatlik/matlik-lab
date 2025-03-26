@@ -6,8 +6,8 @@ project:
 website:
   title: "MÄTLIK LAB"
   description: "Laboratory of Neuroepigenetics"
-  site-url: https://kmatlik.github.io/matlik-lab-website
-  #repo-url: https://github.com/kmatlik/matlik-lab-website
+  site-url: https://kmatlik.github.io/matlik-lab
+  #repo-url: https://github.com/kmatlik/matlik-lab
   # favicon: logo.png
   twitter-card: false
   #   creator: "@handle"
