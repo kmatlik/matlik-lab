@@ -2,9 +2,6 @@
 title: "CONTACT"
 about:
   template: marquee
-  #image: "copy_DSC_7730.jpg"
-  #image-width: 20%
-  #image-shape: rectangle
   links:
     - icon: envelope
       href: "mailto: kart.matlik@taltech.ee"
