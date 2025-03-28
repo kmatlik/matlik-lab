@@ -34,6 +34,9 @@ website:
     background: light
     right: "Made with Quarto. Figures created with BioRender.com"
 
+enable_google_verification: true
+google_site_verification: 9xhBFo87R8VeryGLxbYmSXnLOWJKK1FniRXbDOdBrrA
+
 format:
   html:
     theme: journal #other nice alternatives include journal, united, minty, lumen, yeti, spacelab https://quarto.org/docs/output-formats/html-themes.html

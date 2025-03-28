@@ -3,9 +3,7 @@ title: "WELCOME"
 
 about:
   template: marquee
-    
 ---
-<meta name="google-site-verification" content="9xhBFo87R8VeryGLxbYmSXnLOWJKK1FniRXbDOdBrrA" />
 ## Laboratory of Neuroepigenetics  
 <img src= "composite2.jpg" class="center fit" style="width: 47vw; min-width: 330px;">  
 
