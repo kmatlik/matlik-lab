@@ -5,7 +5,9 @@ about:
 toc: false
 ---
 
-<b>Mätlik K</b>, Govek EE, Hatten ME (2025). [Histone bivalency in CNS development](https://doi.org/10.1101/gad.352306.124) *Genes &amp; Development*
+Nagaeva E, Turconi G, <b>Mätlik K</b>, Segerstråle M, Olfat S, Iivanainen V, Taira T, Andressoo JO (2025). [Motor learning is regulated by postnatal GDNF levels in Purkinje cells](https://doi.org/10.1016/j.neuroscience.2025.04.030) *Neuroscience*, 576: 27-41
+
+<b>Mätlik K</b>, Govek EE, Hatten ME (2025). [Histone bivalency in CNS development](https://doi.org/10.1101/gad.352306.124) *Genes &amp; Development*, 39 (7-8): 428-444
 
 Hanzel M, Fernando K, Maloney SE, Horn Z, Gong S, <b>Mätlik K</b>, Zhao J, Pasolli HA, Heissel S, Dougherty JD, Hull C, Hatten ME (2024). [Mice lacking <i>Astn2</i> have ASD-like behaviors and altered cerebellar circuit properties](https://doi.org/10.1073/pnas.2405901121) *Proceedings of the National Academy of Sciences*, 121 (34): e2405901121
 
