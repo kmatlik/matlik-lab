@@ -9,7 +9,7 @@ about:
   
 ![](research_1.jpg){fig-align="center" width="320"}  
 
-During development, neurons undergo a series of functional and morphological changes to become mature neurons integrated into brain circuitry. The developmental progression of neuronal precursors is regulated by changes in gene expression, which, in turn, are controlled by the chromatin landscape. We are interested in understanding how chromatin mechanisms regulate the timing of developmental progression of immature neurons.  
+During development, neurons undergo a series of functional and morphological changes to become mature neurons integrated into brain circuitry. The developmental progression of neuronal precursors is regulated by changes in gene expression, which, in turn, are controlled by the chromatin landscape. We are interested in understanding how chromatin mechanisms regulate transcriptional programs during neuronal development.  
 
 ::: 
 Our work has revealed the importance of histone bivalency in regulating the appropriate timing of gene expression programs during neuronal maturation. Histone bivalency refers to the colocalisation of activating and repressive modifications on chromatin, and it is thought to maintain gene expression in a 'paused' state. Our studies on the cerebellum showed that if bivalency is perturbed, developing neurons skip glial-guided migration, an essential step in cerebellar cortex formation, and instead undergo premature maturation. We are now identifying novel bivalency regulators and exploring how bivalency is regulated in mouse and human neurons.  
