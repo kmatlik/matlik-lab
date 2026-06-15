@@ -3,6 +3,7 @@ title: "WELCOME"
 
 about:
   template: marquee
+
 ---
 ## Laboratory of Neuroepigenetics  
 <img src= "composite2.jpg" class="center fit" style="width: 47vw; min-width: 330px;">  
