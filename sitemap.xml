@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kmatlik.github.io/matlik-lab/Publications.html</loc>
-    <lastmod>2025-12-08T12:25:43.009Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kmatlik.github.io/matlik-lab/posts/another-post.html</loc>
-    <lastmod>2025-12-08T12:25:43.014Z</lastmod>
-  </url>
-  <url>
     <loc>https://kmatlik.github.io/matlik-lab/index.html</loc>
-    <lastmod>2025-12-08T12:25:43.014Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kmatlik.github.io/matlik-lab/Research.html</loc>
-    <lastmod>2025-12-08T12:25:43.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kmatlik.github.io/matlik-lab/People.html</loc>
-    <lastmod>2025-12-08T12:25:43.009Z</lastmod>
+    <lastmod>2026-06-15T18:40:16.113Z</lastmod>
   </url>
   <url>
     <loc>https://kmatlik.github.io/matlik-lab/posts/new-post.html</loc>
-    <lastmod>2025-12-08T12:25:43.014Z</lastmod>
+    <lastmod>2026-06-15T18:40:16.114Z</lastmod>
   </url>
   <url>
     <loc>https://kmatlik.github.io/matlik-lab/Contact.html</loc>
-    <lastmod>2025-12-08T12:25:43.009Z</lastmod>
+    <lastmod>2026-06-15T18:40:16.102Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kmatlik.github.io/matlik-lab/News.html</loc>
+    <lastmod>2026-06-15T18:40:16.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kmatlik.github.io/matlik-lab/People.html</loc>
+    <lastmod>2026-06-15T18:40:16.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kmatlik.github.io/matlik-lab/Research.html</loc>
+    <lastmod>2026-06-15T18:40:16.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kmatlik.github.io/matlik-lab/posts/another-post.html</loc>
+    <lastmod>2026-06-15T18:40:16.114Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kmatlik.github.io/matlik-lab/Publications.html</loc>
+    <lastmod>2026-06-15T18:40:16.103Z</lastmod>
   </url>
 </urlset>
