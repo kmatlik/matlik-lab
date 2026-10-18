@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "CONTACT",
+    "section": "",
+    "text": "Interested in joining us?\nWe are looking for highly motivated students interested in working at the intersection of neuroscience, developmental biology and epigenetics. Please email kart.matlik@taltech.ee to get in touch."
+  },
+  {
+    "objectID": "People.html",
+    "href": "People.html",
+    "title": "TEAM",
+    "section": "",
+    "text": "Kärt Mätlik, Ph.D. \nGroup Leader\nKärt received her Ph.D. in Physiology and Neuroscience from the University of Helsinki, where she studied the role of neurotrophic factor regulation in midbrain dopamine system function under the mentorship of Jaan-Olle Andressoo and Mart Saarma. For her postdoctoral training, Kärt joined the Laboratory of Developmental Neurobiology at Rockefeller University, led by Mary E. Hatten, where she investigated how chromatin modifications control cerebellar development. Kärt now runs the Neuroepigenetics research group at the Tallinn University of Technology, where she studies the intersection of epigenetics, gene expression and brain development.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRomain Jacques Elie Bernasconi, Ph.D. \nResearch scientist\nRomain holds a Ph.D from Taltech, where he investigated cell signalling driving skeletal muscle phenotype adaptation in creatine-deficient mice. Nowadays, Romain works on the characterization of a new EZH1 conditional KO mouse model, in order to further understand EZH1’s role in epigenetic regulation. As a side project, he investigates a novel gut-brain epigenetic regulation during neurodevelopment.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLonaly Jüriado, M.Sc.\nPhD Student\nLonaly holds a Master’s Degree in Forensic Science from Uppsala University, but she conducted her thesis work at the Karolinska Institute, where she investigated mitochondrial gene expression and its potential role in KRAS-driven lung adenocarcinoma. She has now joined the Neuroepigenetics research group at TalTech as a PhD student, where she studies cell-type-specific changes in histone modifications, chromatin organisation, and DNA repair in the ageing mammalian brain. Outside the lab, Lonaly enjoys reading good novels and gardening.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrma Laas, M.Sc.\nPhD Student\nIrma holds a Master’s Degree in Biotechnology from Lund University, where she investigated the role of mitochondria-related genes in cancer incidence. She has now joined the Neuroepigenetics research group in TalTech to study chromatin bivalency and the mechanisms and functions of H3K27 trimethylation in developing and mature neurons, with the broader aim of understanding how epigenetic regulation influences neuronal identity and function. Outside the lab, Irma spends her time in pottery classes or practicing folk dance.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAveli Schneider\nBSc Student\nAveli is a Bachelor’s Degree student in Gene Technology. Before starting university, she graduated from Pärnu Koidula Gymnasium. For her thesis, she focuses on evaluating how the loss of H3K27me3 impacts neurons’ susceptibility to DNA damage. In her free time she enjoys reading books, practicing folk dance and spending time with her cats.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSarah-Elisabeth Soitu, B.Sc.\nMSc Student\nMy thesis focuses on the regulation of bivalent domains in human pluripotent stem cells (hPSCs) and hPSC-derived neurons. I’ve always been fascinated by neuroscience, and the complexity of the brain. When I first learned about stem cells, I was really intrigued by them, so I was happy to get the opportunity to work with them and contribute to research in this exciting area. Neuroepigenetics research group perfectly combines these interests and allows me to explore the importance of epigenetic mechanisms in brain development. Outside the lab, I love painting and listening to science and creativity podcasts. For me, science and art are deeply connected, and both inspire the way I see the world!\n\n\n\n\nKarolina Barbara Viks\nBSc Student\nKarolina graduated with highest honors from the Old Town Educational College´s (Vanalinna Hariduskolleegium) medical class. Following her graduation, she enrolled in the Applied Chemistry and Gene Technology bachelor’s program at TalTech, specializing in gene technology from her second year onwards. During her second year, she joined TalTech’s Neuroepigenetics research group, where she is conducting her thesis research under the supervision of Dr. Kärt Mätlik. Additionally, Karolina completed a three-week internship at the SOLARIS National Synchrotron Radiation Centre in Poland.\n\n\nLiisa Lepmets\nBSc Student\n\n\nAlumni\nLiisi Mets, BSc student"
+  },
+  {
+    "objectID": "News.html",
+    "href": "News.html",
+    "title": "NEWS",
+    "section": "",
+    "text": "2026-06-15\nCongrats to our new BSc graduates!\n\nSarah and Liisi successfully defended their Bachelor’s theses last week! Congratulations on this important milestone, and we wish you continued success in your future studies and careers.\n\n\n\n\n2026-05-07\nFirst preprint from the lab!\nDelighted to share that our first preprint by Irma Laas et al. is now available on bioRxiv: Long-term maintenance of H3K27me3 in postmitotic neurons is dispensable for gene expression regulation. https://doi.org/10.64898/2026.05.05.722847"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "WELCOME",
@@ -12,27 +33,6 @@
     "title": "WELCOME",
     "section": "",
     "text": "Neurons are born early in development and mature shortly after that. Most types of mammalian neurons are not replaced during the individual’s lifetime. As a result, after neurons have matured and become fully functional, they must remain so for a long time – in humans, for up to a hundred years or more.\nOur lab at the Tallinn University of Technology aims to uncover the epigenetic mechanisms that guide neuronal maturation and ensure the maintenance of neuronal function over the course of a lifetime. We use a combination of methods including primary neuronal cultures, animal models, microscopy, genome-wide sequencing and bioinformatics to study chromatin and gene regulation in neurons. We hope this research helps us understand key questions about brain function in health and disease."
-  },
-  {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "CONTACT",
-    "section": "",
-    "text": "Interested in joining us?\nWe are looking for highly motivated students interested in working at the intersection of neuroscience, developmental biology and epigenetics. Please email kart.matlik@taltech.ee to get in touch."
-  },
-  {
-    "objectID": "News.html",
-    "href": "News.html",
-    "title": "NEWS",
-    "section": "",
-    "text": "2026-06-15\nCongrats to our new BSc graduates!\n\nSarah and Liisi successfully defended their Bachelor’s theses last week! Congratulations on this important milestone, and we wish you continued success in your future studies and careers.\n\n\n\n\n2026-05-07\nFirst preprint from the lab!\nDelighted to share that our first preprint by Irma Laas et al. is now available on bioRxiv: Long-term maintenance of H3K27me3 in postmitotic neurons is dispensable for gene expression regulation. https://doi.org/10.64898/2026.05.05.722847"
-  },
-  {
-    "objectID": "People.html",
-    "href": "People.html",
-    "title": "TEAM",
-    "section": "",
-    "text": "Kärt Mätlik, Ph.D. \nGroup Leader\nKärt received her Ph.D. in Physiology and Neuroscience from the University of Helsinki, where she studied the role of neurotrophic factor regulation in midbrain dopamine system function under the mentorship of Jaan-Olle Andressoo and Mart Saarma. For her postdoctoral training, Kärt joined the Laboratory of Developmental Neurobiology at Rockefeller University, led by Mary E. Hatten, where she investigated how chromatin modifications control cerebellar development. Kärt now runs the Neuroepigenetics research group at the Tallinn University of Technology, where she studies the intersection of epigenetics, gene expression and brain development.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrma Laas, M.Sc.\nPhD Student\nIrma holds a Master’s Degree in Biotechnology from Lund University, where she investigated the role of mitochondria-related genes in cancer incidence. She has now joined the Neuroepigenetics research group in TalTech to study chromatin bivalency and the mechanisms and functions of H3K27 trimethylation in developing and mature neurons, with the broader aim of understanding how epigenetic regulation influences neuronal identity and function. Outside the lab, Irma spends her time in pottery classes or practicing folk dance.\n\n\n\n\n\n\n\n\n\n\n\n\n\nLiisi Mets\nBSc Student\nLiisi is a Bachelor’s degree student in Gene Technology. For her thesis, she studies the function of EZH1 mutations in mouse primary neurons. Of her goals in science, she says: “Some people pursue science to uncover the unknown, while others use existing knowledge to heal, protect and improve life. I aspire to do both.”\n\n\n\n\n\n\n\n\n\n\n\n\n\nSarah-Elisabeth Soitu\nBSc Student\nMy thesis focuses on the subnuclear organisation of bivalent domains in human pluripotent stem cells (hPSCs) and hPSC-derived neurons. I’ve always been fascinated by neuroscience, and the complexity of the brain. When I first learned about stem cells, I was really intrigued by them, so I was happy to get the opportunity to work with them and contribute to research in this exciting area. Neuroepigenetics research group perfectly combines these interests and allows me to explore the importance of epigenetic mechanisms in brain development. Outside the lab, I love painting and listening to science and creativity podcasts. For me, science and art are deeply connected, and both inspire the way I see the world!\n\n\n\nInterested in joining the lab? See the Contact tab for more information."
   },
   {
     "objectID": "Research.html",
